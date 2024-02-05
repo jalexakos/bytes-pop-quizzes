@@ -26,5 +26,4 @@ const products = [
 
   // initial thought:  += is performed before * in the discount case (line 16) 
   // Not correct: += happens after *
-  // Correct answer: "Total cost is undefined. The reduce function is missing a return statement. The reduce function should return
-  // the accumulator after the iteration is complete.""
+
